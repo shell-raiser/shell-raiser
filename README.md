@@ -1,4 +1,4 @@
-### Hi there 👋,
-I'm Shailesh (Shell Raiser), I'm a [ Web Dev, Designer, Music Maker, Cybersec Enthusiast, Pentester ]
+I'm Shailesh (Shell Raiser), <br>
+I'm a [ Web Dev, Pentester, Music Maker ]
 <br>
- Check out my portfolio [here](https://shell-raiser.github.io)
+Check out my portfolio [here](https://shell-raiser.github.io)
